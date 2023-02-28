@@ -1,10 +1,10 @@
 Metadata-Version: 1.1
-Name: appmode
-Version: 0.8.0
-Summary: A Jupyter extensions that turns notebooks into web applications.
-Home-page: http://github.com/oschuett/appmode
-Author: Ole Schuett
-Author-email: ole.schuett@cp2k.org
+Name: app
+Version: final
+Summary: Final Project
+Home-page: https://github.com/yvanoliveira/tcc
+Author: Yvan Oliveira
+Author-email: yvan_oliveira@outlook.com
 License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
