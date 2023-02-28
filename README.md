@@ -1,3 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yvanoliveira/app/HEAD?labpath=%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yvanoliveira/tcc/master?labpath=app.ipynb)
 
 Course Project Final
