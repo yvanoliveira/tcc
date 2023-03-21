@@ -1,4 +1,4 @@
-$ pip-compile
+$ pip-compile requirements.in
 
 simpy
 numpy
