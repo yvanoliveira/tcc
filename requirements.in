@@ -1,3 +1,5 @@
+$ pip-compile
+
 simpy
 numpy
 matplotlib
